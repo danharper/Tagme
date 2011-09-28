@@ -1,0 +1,17 @@
+.tag_list input {
+	border: none;
+	padding: 0;
+	box-shadow: none;
+}
+
+.tag_list div {
+	display: inline;
+}
+
+.label {
+	display: inline-block;
+	margin-bottom: 3px;
+	margin-right: 3px;
+	padding-top: 0;
+	padding-bottom: 0;
+}
